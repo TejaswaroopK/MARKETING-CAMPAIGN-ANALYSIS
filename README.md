@@ -75,8 +75,9 @@ The goal of the project is to evaluate campaign performance, measure profitabili
 ---
 
 ## 📂 File Contents
+- `Marketing_Dataset` - Datasets
 - `Marketing_Campaign_Analysis.pbix` – Power BI report file
-- `report.png`
+- `report.png` - Result
 - `README.md` – Project documentation  
 
 ---
