@@ -86,7 +86,7 @@ The goal of the project is to evaluate campaign performance, measure profitabili
 Tejaswaroop Karanam
 Data Analyst | Power BI Developer  
 📧 2100080151ai.ds@gmail.com  
-💼 [LinkedIn Profile](www.linkedin.com/in/tejaswaroop4b179b283)
+💼 [LinkedIn Profile](https://www.linkedin.com/in/tejaswaroop4b179b283/)
 
 ---
 
